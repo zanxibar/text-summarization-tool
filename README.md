@@ -2,6 +2,11 @@
 
 A text summarization tool built using Hugging Face Transformers and Gradio. This tool generates concise summaries of long texts using state-of-the-art NLP models like BART and T5. The project is implemented in a Google Colab notebook for easy experimentation and deployment.
 
+![Screenshot (175)](https://github.com/user-attachments/assets/0cd93cee-cd5f-4124-8f9b-9fdeace6d8e8) 
+![Screenshot (179)](https://github.com/user-attachments/assets/37ed5503-328f-4d0c-a1f9-090506f21a53)
+
+
+
 ### Features
 **Abstractive Summarization**: Generates new sentences that capture the essence of the original text.
 
